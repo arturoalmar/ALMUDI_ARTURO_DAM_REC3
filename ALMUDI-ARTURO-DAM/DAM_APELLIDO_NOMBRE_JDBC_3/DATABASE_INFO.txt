@@ -1,0 +1,20 @@
+=========================================
+AUTOR: ARTURO ALMUDI MARCO
+GRUPO: DAM3
+EXAMEN JDBC AWS RDS
+FECHA: 08/06/2026
+=========================================
+
+BASE DE DATOS: postgres
+MOTOR:         PostgreSQL (AWS RDS)
+HOST:          almudi-arturo-dam-3.cfz5l9za6byi.us-east-1.rds.amazonaws.com
+PUERTO:        5432
+USUARIO:       postgres
+
+TABLAS:
+  - socs
+  - incidentes
+  - informes_incidentes
+
+CONEXION JDBC:
+  jdbc:postgresql://almudi-arturo-dam-3.cfz5l9za6byi.us-east-1.rds.amazonaws.com:5432/almudi-arturo-dam-3
